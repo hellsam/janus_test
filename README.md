@@ -22,7 +22,7 @@ janus.py：合并最终apk的脚本
 	python janus.py classes.dex janus_old.apk janus_final.apk
 	```	
 	
-3. 覆盖安装并打开janus_final.apk，点击按钮，截图如下：
+3. 覆盖安装并打开janus_final.apk，点击按钮，Toas打印“I am new app”说明修改成功，截图如下：
 
 	<img src="./janus_final.jpg" width="150" align=center />
 	
