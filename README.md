@@ -22,7 +22,7 @@ janus.py：合并最终apk的脚本
 	python janus.py classes.dex janus_old.apk janus_final.apk
 	```	
 	
-3. 覆盖安装并打开janus_finish.apk，点击按钮，截图如下：
+3. 覆盖安装并打开janus_final.apk，点击按钮，截图如下：
 
 	![](./janus_final.jpg)
 	
