@@ -14,7 +14,7 @@ janus.py：合并最终apk的脚本
 
 1. 安装janus_old.apk，点击按钮，Toast打印“I am old app.”，如下图
 
-	![](./janus_old.jpg)
+	<img src="./janus_old.jpg" width="150" align=center />
 	
 2. 用janus.py脚本合并出最终apk，命令如下：
 
@@ -24,6 +24,6 @@ janus.py：合并最终apk的脚本
 	
 3. 覆盖安装并打开janus_final.apk，点击按钮，截图如下：
 
-	![](./janus_final.jpg)
+	<img src="./janus_final.jpg" width="150" align=center />
 	
 >> 测试机型：nexus5，android版本：5.1.1
